@@ -30,6 +30,19 @@
 ![pull_figure](https://github.com/Zxy-MLlab/LIBERO-OOD/blob/master/images/overall.png)
 </div>
 
+## ✨ News ✨​
+- [2025/11/05] 📊 All bddl and init files have been uploaded to Huggingface (supports fast parallel evaluation): [Dataset](https://huggingface.co/datasets/zhouxueyang/LIBERO-Pro)
+- [2025/10/29] 🌐 We launched the official project website for LIBERO-Pro (with more demos & details): [Webpage](https://zxy-mllab.github.io/LIBERO-PRO-Webpage/)
+- [2025/10/22] 📱 We have shared a project promotion post on Xhs: [Xhs](http://xhslink.com/o/5vmaip7wQCE/)
+- [2025/10/20] 💬 We have created an official WeChat account (join discussions, get quick Q&A) [WeChat](https://github.com/Zxy-MLlab/LIBERO-OOD/blob/master/images/wechat.png)​
+- [2025/10/05] 🤖 We have released the full LIBERO-Pro code on GitHub: [Code​](https://github.com/Zxy-MLlab/LIBERO-PRO)
+- [2025/10/04] 🎉 Our paper, LIBERO-Pro: Towards Robust and Fair Evaluation of Vision-Language-Action Models Beyond Memorization is now available on arXiv: [Paper](https://arxiv.org/pdf/2510.03827)
+
+## 🌟 Follow Us
+We are committed to continuously improving **LIBERO-Pro** based on your feedback. Our goal is to establish a fair and simple evaluation environment for Vision-Language-Action (VLA) models. Your input is invaluable in helping us achieve this goal!
+
+---
+
 ## 🔍 Motivation
 Recent VLA models have demonstrated impressive performance on known tasks; however, our observations suggest that such success largely stems from mechanical memorization of training scenarios rather than genuine acquisition of transferable task-solving strategies.
 
@@ -44,8 +57,7 @@ Recent VLA models have demonstrated impressive performance on known tasks; howev
 > 🟦 **Original** 🟧 **+ P1: Task Perturbation** 🟩 **+ P2: Position Perturbation**  
 > 📉 *All models achieve >0.9 on original LIBERO tasks but collapse under LIBERO-PRO perturbations, showing poor true generalization.*
 
-
-
+---
 ## 🌍 Fairer Environment
 **LIBERO-Pro** calls for a more *rigorous, standardized, and transparent* approach to measuring generalization, helping the community move **beyond memorization and toward true understanding**.
 
