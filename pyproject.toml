@@ -17,7 +17,7 @@ dependencies = [
     # egl probe: canonical repo
     "hf-egl-probe @ git+https://github.com/huggingface/egl_probe.git#egg=hf-egl-probe",
     # transformers
-    "transformers>=4.53.0,<5.0.0"
+    "transformers>=4.53.0,<5.0.0",
     # core runtime / reproducible pins
     "hydra-core>=1.2,<1.4",
     "robomimic==0.2.0",
